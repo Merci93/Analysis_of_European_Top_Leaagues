@@ -1,12 +1,12 @@
 # Analysis_of_European_Top_Leaagues
 This is a data analysis project aimed at analyzing the top European Leeagues in the following selected countries: **England**, **Germany**, **Poland**, **Belgium**,  **Italy**, **Spain** and lots more. It contains data for soccer matches, players, and teams from these European countries from 2008 to 2016. The features includes but not limited to:
-**Player name:** shows the name of players
-**Country:** Countries whose leagues were listed
-**League:** Leagues played in the listed countries
-**Clubs:** Name of clubs participating in the leagues
-**Penalties:** Number of penalties played by a player
-**Home team goal:** Goals scored by the home team per match
-**Away team goal:** Goals scored by the away team per match . . . and lots more. The colmns are enormous to be listed here.
+* **Player name:** shows the name of players
+* **Country:** Countries whose leagues were listed
+* **League:** Leagues played in the listed countries
+* **Clubs:** Name of clubs participating in the leagues
+* **Penalties:** Number of penalties played by a player
+* **Home team goal:** Goals scored by the home team per match
+* **Away team goal:** Goals scored by the away team per match . . . and lots more. The colmns are enormous to be listed here.
 
 Contained in this database are the following csv files:
 **Countries:** Names of different countries whose with their ID(England, Germany, Italy, etc, the rest will be seen during analysis.),
